@@ -1,0 +1,9 @@
+{
+	...
+}: {
+	programs = {
+		nano = {
+			enable = false;
+		};
+	};
+}

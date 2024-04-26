@@ -1,0 +1,9 @@
+{
+	...
+}: {
+	programs = {
+		vim = {
+			defaultEditor = true;
+		};
+	};
+}

@@ -1,0 +1,9 @@
+{
+	...
+}: {
+	documentation = {
+		nixos = {
+			enable = false;
+		};
+	};
+}

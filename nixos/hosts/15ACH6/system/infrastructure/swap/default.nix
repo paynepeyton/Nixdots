@@ -1,0 +1,9 @@
+{
+	...
+}: {
+	swapDevices = [
+		{
+			label = "SWAP";
+		}
+	];
+}
